@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+.coverage
+.venv
+__pycache__/
+model/
+!model/.gitkeep
