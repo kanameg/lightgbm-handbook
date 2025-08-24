@@ -9,6 +9,7 @@ ENV TZ=Asia/Tokyo
 
 # 各種パッケージのインストール
 RUN apt-get update && apt-get install -y \
+    graphviz \
     curl \
     fonts-ipaexfont \
     libopencv-dev \
